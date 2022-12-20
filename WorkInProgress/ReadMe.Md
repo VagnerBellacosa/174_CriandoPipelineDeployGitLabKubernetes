@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um pipeline de deploy com Gitlab e Kubernetes](https://web.dio.me/lab/criando-um-pipeline-de-deploy-com-gitlab-e-kubernetes/learning/c0048d42-f554-4ed2-b272-550666113ae4)[Materiais de Apoio](https://web.dio.me/lab/criando-um-pipeline-de-deploy-com-gitlab-e-kubernetes/learning/299b7ad3-8831-4c37-89d2-ac4f0e7a40b7)
+- [Criando um pipeline de deploy com Gitlab e Kubernetes](https://web.dio.me/lab/criando-um-pipeline-de-deploy-com-gitlab-e-kubernetes/learning/c0048d42-f554-4ed2-b272-550666113ae4)
+- [Materiais de Apoio](https://web.dio.me/lab/criando-um-pipeline-de-deploy-com-gitlab-e-kubernetes/learning/299b7ad3-8831-4c37-89d2-ac4f0e7a40b7)
 
 
 
